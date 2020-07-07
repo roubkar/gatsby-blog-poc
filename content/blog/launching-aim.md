@@ -76,10 +76,14 @@ With these community-driven tools we hope other engineers too will use to dramat
 
 Try out AIM, join our [community](https://aimstack.io/) and let’s build the next generation of AI tools together!! If you have questions — I am always happy to chat!
 
-`pip install aim-cli`
+```
+pip install aim-cli
 
-`aim init`
+aim init
 
-`aim de up`
+aim de up
+```
+
+``
 
 Go to [docs](https://docs.aimstack.io/user-guide/quick-start) for more info on how to set up your first AIM project.
