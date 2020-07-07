@@ -1,7 +1,7 @@
 ---
 path: launching-aim
 date: 2020-07-07T16:51:07.605Z
-title: Launching AIM — an open AI development environment
+title: Launching AIM
 description: Can tools for AI be as good as they are for the rest of software engineering?
 ---
 
