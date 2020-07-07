@@ -1,11 +1,9 @@
 ---
 path: launching-aim
 date: 2020-07-07T16:56:43.047Z
-title: launching-aim
+title: Launching-aim
 description: AIM - An open AI development environment
 ---
-
-
 > Can tools for AI be as good as they are for the rest of software engineering?
 
 # AI is eating software.
@@ -17,8 +15,6 @@ Back in 2015, AI grabbed the attention of builders, investors and companies. Dee
 For the rest of software, we engineers have always built awesome tools for ourselves, like IDEs, version control, packaging, containers and monitoring. Launching a production-strength website, lib or app has never been easier.
 
 But for AI the development cycle is very long — a preprocessing bug may be discovered only after training on 1024 TPUs, or never.
-
-![](https://miro.medium.com/max/60/1*rEd8LuhXtjx8i2m4hJq6bw.png?q=20)
 
 ![](https://miro.medium.com/max/2220/1*rEd8LuhXtjx8i2m4hJq6bw.png)
 
@@ -45,8 +41,6 @@ We wanted a toolstack that was **fast-paced** and **collaborative**, with **one 
 And the tools had to handle the long cycles and large datasets that make AI different from normal engineering, and be customizable so we could add problem-specific insights for debugging and interpretation.
 
 With these requirements, we set out to create an AI development environment that is 10x better than any current approach.
-
-![](https://miro.medium.com/max/60/1*dPZtB86mewx3lBlhGZ2olg.png?q=20)
 
 ![](https://miro.medium.com/max/2800/1*dPZtB86mewx3lBlhGZ2olg.png)
 
