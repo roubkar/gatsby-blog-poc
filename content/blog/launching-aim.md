@@ -84,6 +84,4 @@ aim init
 aim de up
 ```
 
-``
-
 Go to [docs](https://docs.aimstack.io/user-guide/quick-start) for more info on how to set up your first AIM project.
